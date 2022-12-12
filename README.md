@@ -4,4 +4,4 @@
 
 📖 I’m currently learning more about Vercel.
 
-💞️ I’m looking to collaborate on my site [bsize](https://bsize.vercel.app).
+💞️ In my free-time, I am building out: [bsize](https://bsize.vercel.app).
